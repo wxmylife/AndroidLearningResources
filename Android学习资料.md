@@ -8,7 +8,6 @@
 + []()
 + []()
 + []()
-+ []()
 
 ##  知识点
 1. Java
@@ -21,11 +20,23 @@
     + []()
 2. Android
     + [Android开发高手进阶教程](http://blog.csdn.net/column/details/androiddept.html)
+    + [Android 开发最佳实践](https://www.aswifter.com/2015/07/17/android-best-practices/)
     + []()
     + []()
     + []()
     + []()
-    + []()
+    + []()   
+
+
+    
+## 动画
++ [ Android属性动画Property Animation系列一之ValueAnimator](http://blog.csdn.net/feiduclear_up/article/details/45893619 )
++ [ Android属性动画Property Animation系列二之ObjectAnimator](http://blog.csdn.net/feiduclear_up/article/details/45915377)
++ [ Android属性动画Property Animation系列三之LayoutTransition（布局容器动画）](http://blog.csdn.net/feiduclear_up/article/details/45919613)
++ []()
++ []()
+
+
 
 ## 适配
 + [screensiz](http://screensiz.es/phone)
@@ -38,6 +49,8 @@
 + []()
 + []()
 + []()
+
+
 
 ##权限
 + [鹅厂专家详解Android N适配要点 | 腾讯优测干货分享](https://zhuanlan.zhihu.com/p/21461478)
