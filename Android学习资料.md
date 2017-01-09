@@ -10,6 +10,23 @@
 + []()
 + []()
 
+##  知识点
+1. Java
+    + [JAVA之旅](http://blog.csdn.net/qq_26787115/article/details/51318455)
+    + []()
+    + []()
+    + []()
+    + []()
+    + []()
+    + []()
+2. Android
+    + [Android开发高手进阶教程](http://blog.csdn.net/column/details/androiddept.html)
+    + []()
+    + []()
+    + []()
+    + []()
+    + []()
+
 ## 适配
 + [screensiz](http://screensiz.es/phone)
 + [Andriod分辨率适配 ”葵花宝典“](http://www.ui.cn/detail/27997.html)
