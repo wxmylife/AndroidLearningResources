@@ -3,11 +3,12 @@
 
 ## 代码规范
 + [Android代码规范：命名规范](http://android.jobbole.com/83659/)
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
++ [Android 编码规范](http://www.jianshu.com/p/0a984f999592)
++ [聊聊Android编程规范](http://www.jianshu.com/p/29d7cd6852cd)
++ [Android研发实用开发规范](http://blog.csdn.net/qq_23547831/article/details/51534013)
++ [Android进阶之路——安卓编程规范](http://www.jianshu.com/p/fbf9ea4b9d76#rd)
++ [Android开发基础规范（一）](http://blog.csdn.net/hejjunlin/article/details/52602487)
++ [android 编码规范](https://gold.xitu.io/post/583ff3a0a22b9d006c0e0eb9)
 
 ##  知识点
 1. Java
