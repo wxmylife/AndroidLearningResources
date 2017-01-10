@@ -10,7 +10,7 @@
 + [Android：dagger2让你爱不释手-基础依赖注入框架篇](http://www.jianshu.com/p/cd2c1c9f68d4)
 + [史上最通俗易懂的Android中使用Dagger入门教程](http://i.woblog.cn/2016/07/18/use-dagger2/)
 + [Dagger2在Android中的使用](http://mushuichuan.com/2016/02/18/dagger/)
-+ [ Dagger2实战（详细）](http://blog.csdn.net/u013647382/article/details/53302097)
++ [Dagger2实战（详细）](http://blog.csdn.net/u013647382/article/details/53302097)
 + [噢~这就是Dagger2！](http://mp.weixin.qq.com/s?__biz=MzA3MjgwNDIzNQ==&mid=2651939805&idx=1&sn=20247d19456b54ac18414b7e336a77a1&chksm=84fd7139b38af82f9ce70f771e5b3505f2121d92b5b216c650ab8cd88abf22115d90f3ce1f06&mpshare=1&scene=23&srcid=1202GmMvRLpuHZH1Fyoc7A29#rd)
 + [Dagger2详解-从代码分析其原理](http://www.jianshu.com/p/eef7fa8136e7)
 + [DI框架Dagger2系统性学习-不容错过的干货](http://www.jianshu.com/p/d8dd55956e74)
