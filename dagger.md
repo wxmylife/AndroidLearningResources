@@ -16,6 +16,7 @@
 + [DI框架Dagger2系统性学习-不容错过的干货](http://www.jianshu.com/p/d8dd55956e74)
 + [Dagger2:上手就爱不释手](http://www.jianshu.com/p/4ebbd514dbaf)
 + [Dagger2](https://github.com/AlanCheen/Android-Resources/blob/master/Dagger2.md)
++ [我的Dagger2学习历程：从一头雾水到恍然大悟](https://gold.xitu.io/post/58722866128fe1006b33e104)
 
 ## 项目
 
