@@ -28,6 +28,9 @@
     + []()
     + []()   
 
+## 架构
++ [人人车Android客户端架构演进实录](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651113031&idx=1&sn=7e9989d1044b836d34f38dc527b8d6c2)
+
 
     
 ## 动画
