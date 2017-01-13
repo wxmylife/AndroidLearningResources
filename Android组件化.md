@@ -6,4 +6,6 @@
 * [APP组件化与插件化华山论剑](http://www.jianshu.com/p/642a759051ea)
 * [App组件化与业务拆分那些事](http://www.jianshu.com/p/60c1b9ddd8ab)
 * [Android业务组件化开发实践](http://kymjs.com/code/2016/10/18/01/)
+* [Android业务组件化之现状分析与探讨](http://www.cnblogs.com/whoislcj/p/5853393.html)
+
 
