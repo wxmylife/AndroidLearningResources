@@ -8,4 +8,10 @@
 * [Android业务组件化开发实践](http://kymjs.com/code/2016/10/18/01/)
 * [Android业务组件化之现状分析与探讨](http://www.cnblogs.com/whoislcj/p/5853393.html)
 
+***
+
+#架构
+* [Android应用架构的一些思考-从零开始](http://blog.csdn.net/u011734444/article/details/53002867)
+* [Android应用架构的一些思考-基础版架构的整体搭建](http://blog.csdn.net/u011734444/article/details/53020539)
+
 

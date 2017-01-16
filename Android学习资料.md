@@ -86,3 +86,12 @@
 
 
 
+
+##混淆
+* [ProGuard代码混淆技术详解](http://www.cnblogs.com/cr330326/p/5534915.html)
+* [Android混淆签名(上)](https://sogrey.github.io/article/Android%E6%B7%B7%E6%B7%86%E7%AD%BE%E5%90%8D%EF%BC%88%E4%B8%8A%EF%BC%89/)
+* [Android混淆签名(下)](https://sogrey.github.io/article/Android%E6%B7%B7%E6%B7%86%E7%AD%BE%E5%90%8D%EF%BC%88%E4%B8%8B%EF%BC%89/)
+* [Android混淆心得](http://www.2cto.com/kf/201607/530170.html)
+
+
+
