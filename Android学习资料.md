@@ -9,6 +9,7 @@
 + [Android进阶之路——安卓编程规范](http://www.jianshu.com/p/fbf9ea4b9d76#rd)
 + [Android开发基础规范（一）](http://blog.csdn.net/hejjunlin/article/details/52602487)
 + [android 编码规范](https://gold.xitu.io/post/583ff3a0a22b9d006c0e0eb9)
++ [Android代码的书写规范](https://gold.xitu.io/post/58945a482f301e0069009e00)
 
 ##  知识点
 1. Java
@@ -99,5 +100,6 @@
 
 
 
-##
+##三方统计
+*[玩转友盟分享面板](https://gold.xitu.io/post/5894547661ff4b006bff44f2)
 
