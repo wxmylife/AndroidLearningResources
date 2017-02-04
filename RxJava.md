@@ -1,3 +1,6 @@
 # RxBus
 * [项目需求讨论-RxBus来进行通信](http://www.jianshu.com/p/71298a824559?utm_campaign=hugo&utm_medium=reader_share&utm_content=note)
+* [值得收藏的图解Rxjava Operators](http://mp.weixin.qq.com/s/OeL-fSjIQrHozP14IlJ3aw)
+* [给初学者的RxJava2.0教程](http://www.jianshu.com/p/464fa025229e)
+
 

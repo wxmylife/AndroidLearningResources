@@ -7,6 +7,8 @@
 * [App组件化与业务拆分那些事](http://www.jianshu.com/p/60c1b9ddd8ab)
 * [Android业务组件化开发实践](http://kymjs.com/code/2016/10/18/01/)
 * [Android业务组件化之现状分析与探讨](http://www.cnblogs.com/whoislcj/p/5853393.html)
+* [Android 组件化开发原理和配置](http://mp.weixin.qq.com/s/2A4eyHh1cRFeMubpyPynww)
+* [Gradle模块化配置](http://w4lle.github.io/2017/01/22/gradle-modules/)
 
 ***
 # 路由
