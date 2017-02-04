@@ -22,7 +22,7 @@
 2. Android
     + [Android开发高手进阶教程](http://blog.csdn.net/column/details/androiddept.html)
     + [Android 开发最佳实践](https://www.aswifter.com/2015/07/17/android-best-practices/)
-    + []()
+    + [Android 流行框架查速表](http://www.ctolib.com/cheatsheets-Android-ch.html)
     + []()
     + []()
     + []()
@@ -94,4 +94,10 @@
 * [Android混淆心得](http://www.2cto.com/kf/201607/530170.html)
 
 
+##内存泄漏
+* [LeakCanary直面项目中的内存泄露](http://blog.csdn.net/donkor_/article/details/54095110)
+
+
+
+##
 
