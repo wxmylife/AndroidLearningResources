@@ -19,5 +19,6 @@
 #架构
 * [Android应用架构的一些思考-从零开始](http://blog.csdn.net/u011734444/article/details/53002867)
 * [Android应用架构的一些思考-基础版架构的整体搭建](http://blog.csdn.net/u011734444/article/details/53020539)
+* [Android架构思考(模块化、多进程)](http://blog.spinytech.com/2016/12/28/android_modularization/)
 
 
