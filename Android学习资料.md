@@ -128,6 +128,9 @@
 ##Review清单
 * [Android必备的Review清单](http://mp.weixin.qq.com/s/2MvaqWLfYbro34fgwZ9b2A)
 
-## 掘金翻译计划
+##启动页
+* [你所不知道的Android启动页(欢迎界面)](http://www.jianshu.com/p/33a798ac3298)
+
+##掘金翻译计划
 * [掘金翻译计划](https://github.com/xitu/gold-miner)
 
