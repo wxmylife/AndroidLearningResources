@@ -126,6 +126,8 @@
 * [Android 实现APP的版本迭代](http://www.jianshu.com/p/254426df49f2)
 
 ##Review清单
-*[Android必备的Review清单](http://mp.weixin.qq.com/s/2MvaqWLfYbro34fgwZ9b2A)
+* [Android必备的Review清单](http://mp.weixin.qq.com/s/2MvaqWLfYbro34fgwZ9b2A)
 
+## 掘金翻译计划
+* [掘金翻译计划](https://github.com/xitu/gold-miner)
 
