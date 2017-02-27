@@ -77,7 +77,7 @@
 
 ## 沉浸式状态栏
 + [Android KITKAT 以上实现沉浸式状态栏](http://www.jianshu.com/p/f8374d6267ef)
-+ []()
++ [Android 状态栏操作，你想知道的都在这里了](https://gold.xitu.io/post/58ad9ca70ce463006b24f134)
 + []()
 + []()
 + []()
