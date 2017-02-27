@@ -9,10 +9,12 @@
 * [Android业务组件化之现状分析与探讨](http://www.cnblogs.com/whoislcj/p/5853393.html)
 * [Android 组件化开发原理和配置](http://mp.weixin.qq.com/s/2A4eyHh1cRFeMubpyPynww)
 * [Gradle模块化配置](http://w4lle.github.io/2017/01/22/gradle-modules/)
+* [Android Application 组件化](https://gold.xitu.io/post/58b38807ac502e0069dc2ec3)
 
 ***
 # 路由
 * [Android路由框架Router分析](http://www.jianshu.com/p/f582c3893bed)
+* [一个简洁、灵活的 android 组件化 (路由) 工具](https://github.com/webee/URIOpenerAndroid)
 
 ***
 

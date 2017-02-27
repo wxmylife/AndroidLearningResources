@@ -26,7 +26,7 @@
     + [Android 流行框架查速表](http://www.ctolib.com/cheatsheets-Android-ch.html)
     + [Android_聊一聊Activity](http://blog.csdn.net/weixin_36244867/article/details/54020673)
     + [Android-打造无敌解耦的BaseActivity](https://luhaoaimama1.github.io/2016/03/23/BaseActivity/)
-    + []()
+    + [安居客Android项目架构演进](https://gold.xitu.io/post/58b073c5b123db0052c03fb1)
     + []()   
 
 ## 架构
@@ -34,6 +34,7 @@
 + [携程移动端架构演进与优化之路](http://geek.csdn.net/news/detail/108167)
 + [独立开发 一个社交 APP 的架构分享 (已实现)](http://www.cnblogs.com/linguanh/p/5683069.html#3547258)
 + [Android应用架构的一些思考-从零开始](http://blog.csdn.net/u011734444/article/details/53002867)
++ []()
 
 
     
