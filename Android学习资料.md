@@ -136,3 +136,7 @@
 ##掘金翻译计划
 * [掘金翻译计划](https://github.com/xitu/gold-miner)
 
+
+## 安全
+* [Android安全系列之：如何在native层保存关键信息](http://www.jianshu.com/p/2576d064baf1?url_type=39&object_type=webpage&pos=1)
+
