@@ -34,7 +34,7 @@
 + [携程移动端架构演进与优化之路](http://geek.csdn.net/news/detail/108167)
 + [独立开发 一个社交 APP 的架构分享 (已实现)](http://www.cnblogs.com/linguanh/p/5683069.html#3547258)
 + [Android应用架构的一些思考-从零开始](http://blog.csdn.net/u011734444/article/details/53002867)
-+ []()
++ [一种Android客户端架构设计分享](http://mp.weixin.qq.com/s?__biz=MzA4NDM2MjAwNw==&mid=2650576568&idx=1&sn=221859b9bb3f57225532db020108498a&chksm=87e060c0b097e9d65c1a80f15ae62bac1234575728b1ff709a74c1a0082c9a4df3121d5dfba1&mpshare=1&scene=23&srcid=0321uL56brS3caUNGRzucx5S#rd)
 
 
     
