@@ -10,6 +10,7 @@
 + [Android开发基础规范（一）](http://blog.csdn.net/hejjunlin/article/details/52602487)
 + [android 编码规范](https://gold.xitu.io/post/583ff3a0a22b9d006c0e0eb9)
 + [Android代码的书写规范](https://gold.xitu.io/post/58945a482f301e0069009e00)
++ [初心网络安卓组代码规范说明](https://github.com/LoranWong/Android-Code-Style/blob/master/README.md)
 
 ##  知识点
 1. Java
@@ -27,7 +28,7 @@
     + [Android_聊一聊Activity](http://blog.csdn.net/weixin_36244867/article/details/54020673)
     + [Android-打造无敌解耦的BaseActivity](https://luhaoaimama1.github.io/2016/03/23/BaseActivity/)
     + [安居客Android项目架构演进](https://gold.xitu.io/post/58b073c5b123db0052c03fb1)
-    + []()   
+    + [Android资源与属性备忘单](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0324/7720.html)   
 
 ## 架构
 + [人人车Android客户端架构演进实录](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651113031&idx=1&sn=7e9989d1044b836d34f38dc527b8d6c2)
