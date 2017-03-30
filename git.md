@@ -6,4 +6,5 @@
 * [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/cn/command-line/advanced-topics/git-flow)
 * [git-flow 备忘清单](https://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
 * [Git 工作流程](http://www.ruanyifeng.com/blog/2015/12/git-workflow.html)
+* [深入浅出 Git](https://blog.coding.net/blog/git-from-the-inside-out)
 
