@@ -141,3 +141,6 @@
 ## 安全
 * [Android安全系列之：如何在native层保存关键信息](http://www.jianshu.com/p/2576d064baf1?url_type=39&object_type=webpage&pos=1)
 
+## 反编译
+* [Android反编译技术总结](http://unclechen.github.io/2016/09/07/Android%E5%8F%8D%E7%BC%96%E8%AF%91%E6%8A%80%E6%9C%AF%E6%80%BB%E7%BB%93/)
+
