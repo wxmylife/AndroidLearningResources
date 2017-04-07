@@ -29,6 +29,7 @@
     + [Android-打造无敌解耦的BaseActivity](https://luhaoaimama1.github.io/2016/03/23/BaseActivity/)
     + [安居客Android项目架构演进](https://gold.xitu.io/post/58b073c5b123db0052c03fb1)
     + [Android资源与属性备忘单](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0324/7720.html)   
+    + [让你彻底搞懂Context到底是什么](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649547681&idx=1&sn=cf600ed5a92ce5fe100e8478ba0c55b4&scene=21#wechat_redirect)
 
 ## 架构
 + [人人车Android客户端架构演进实录](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651113031&idx=1&sn=7e9989d1044b836d34f38dc527b8d6c2)
