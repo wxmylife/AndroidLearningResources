@@ -11,6 +11,7 @@
 + [android 编码规范](https://gold.xitu.io/post/583ff3a0a22b9d006c0e0eb9)
 + [Android代码的书写规范](https://gold.xitu.io/post/58945a482f301e0069009e00)
 + [初心网络安卓组代码规范说明](https://github.com/LoranWong/Android-Code-Style/blob/master/README.md)
++ [分享一个 Android XML 的命名规范](https://zhuanlan.zhihu.com/p/26181517)
 
 ##  知识点
 1. Java
