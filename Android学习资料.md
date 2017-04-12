@@ -121,6 +121,7 @@
 
 ##图片
 * [Android 图片压缩的那些事](http://www.jianshu.com/p/213fc03d0665)
+* [开源推荐：Android图片压缩开源库](http://blog.coderclock.com/2017/04/12/android/open-source-android-image-compression-library/)
 
 ##64k
 * [64k方法数限制原理与解决](http://www.jianshu.com/p/da138bf975f7)
@@ -146,4 +147,7 @@
 
 ## 反编译
 * [Android反编译技术总结](http://unclechen.github.io/2016/09/07/Android%E5%8F%8D%E7%BC%96%E8%AF%91%E6%8A%80%E6%9C%AF%E6%80%BB%E7%BB%93/)
+
+## 埋点
+- [Android无埋点数据收集SDK关键技术解析](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651113253&idx=1&sn=76d8157479c6a7497acb9e2d616572a6)
 
