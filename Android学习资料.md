@@ -151,6 +151,7 @@
 ## 埋点
 - [Android无埋点数据收集SDK关键技术解析](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651113253&idx=1&sn=76d8157479c6a7497acb9e2d616572a6)
 
-
+## 唯一设备号
+- [靠谱的 Android 唯一设备号生成方案](https://linkaipeng.com/2017/03/29/%E9%9D%A0%E8%B0%B1%E7%9A%84%20Android%20%E5%94%AF%E4%B8%80%E8%AE%BE%E5%A4%87%E5%8F%B7%E7%94%9F%E6%88%90%E6%96%B9%E6%A1%88/)
 
 
