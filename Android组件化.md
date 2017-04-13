@@ -22,7 +22,7 @@
 * [基于Android平台的RouterSDK设计与实现](https://gold.xitu.io/post/58af10b4570c350069596764)
 * [Android Router 框架](https://github.com/themores/AntCaves)
 * [手把手教你写Router框架入门篇](http://www.jianshu.com/p/fe436a4ac530)
-
+* [简单易用的 Android 路由方案 NavRouter](https://github.com/zktufo/NavRouter)
 ***
 
 #架构
