@@ -65,7 +65,7 @@
 
 
 
-##权限
+## 权限
 + [鹅厂专家详解Android N适配要点 | 腾讯优测干货分享](https://zhuanlan.zhihu.com/p/21461478)
 + [Android6.0M权限管理实战,完美轻量级封装](http://blog.csdn.net/linglongxin24/article/details/53189359)
 + [Android7.0适配教程，心得](http://www.jianshu.com/p/56b9fb319310)
@@ -95,7 +95,7 @@
 
 
 
-##混淆
+## 混淆
 * [ProGuard代码混淆技术详解](http://www.cnblogs.com/cr330326/p/5534915.html)
 * [Android混淆签名(上)](https://sogrey.github.io/article/Android%E6%B7%B7%E6%B7%86%E7%AD%BE%E5%90%8D%EF%BC%88%E4%B8%8A%EF%BC%89/)
 * [Android混淆签名(下)](https://sogrey.github.io/article/Android%E6%B7%B7%E6%B7%86%E7%AD%BE%E5%90%8D%EF%BC%88%E4%B8%8B%EF%BC%89/)
@@ -103,42 +103,42 @@
 * [读懂 Android 中的代码混淆](http://mp.weixin.qq.com/s?__biz=MzA4NDM2MjAwNw==&mid=2650576525&idx=1&sn=354212c893116f36320c64d03aa98139&chksm=87e060f5b097e9e32271668ff2a262ec2dd3451f62fc11d2cf59ae1f504f4b8fdee14324bd7d&mpshare=1&scene=23&srcid=0227khd3eQlFzzAIkusqVGne%23rd)
 
 
-##内存泄漏
+## 内存泄漏
 * [LeakCanary直面项目中的内存泄露](http://blog.csdn.net/donkor_/article/details/54095110)
 
 ## Gradle
 - [Gradle for Android 第五篇( 多模块构建 )](http://mp.weixin.qq.com/s?__biz=MzA4NDM2MjAwNw==&mid=2650576628&idx=1&sn=9cf8acb162cfa85f52a68ce85c70617f&chksm=87e0608cb097e99a1e1d2903b63f5b1ce1694fe71329304d953635c2d1fe6952da857dd82486&mpshare=1&scene=23&srcid=0411FRec6GkNfivstpm4m0Ez#rd)
 
-##三方统计
+## 三方统计
 * [玩转友盟分享面板](https://gold.xitu.io/post/5894547661ff4b006bff44f2)
 
 
-##签名
+## 签名
 * [Android如何签名](http://www.jianshu.com/p/4da94c5757f7)
 
-##Groovy 
+## Groovy 
 * [Groovy基础知识](http://www.jianshu.com/p/b58b254d8f6e)
 
-##图片
+## 图片
 * [Android 图片压缩的那些事](http://www.jianshu.com/p/213fc03d0665)
 * [开源推荐：Android图片压缩开源库](http://blog.coderclock.com/2017/04/12/android/open-source-android-image-compression-library/)
 
-##64k
+## 64k
 * [64k方法数限制原理与解决](http://www.jianshu.com/p/da138bf975f7)
 
-##Android应用瘦身
+## Android应用瘦身
 * [Android应用瘦身，从18MB到12.5MB](http://www.jianshu.com/p/31ba2d0e9a60)
 
-##迭代
+## 迭代
 * [Android 实现APP的版本迭代](http://www.jianshu.com/p/254426df49f2)
 
-##Review清单
+## Review清单
 * [Android必备的Review清单](http://mp.weixin.qq.com/s/2MvaqWLfYbro34fgwZ9b2A)
 
-##启动页
+## 启动页
 * [你所不知道的Android启动页(欢迎界面)](http://www.jianshu.com/p/33a798ac3298)
 
-##掘金翻译计划
+## 掘金翻译计划
 * [掘金翻译计划](https://github.com/xitu/gold-miner)
 
 
@@ -150,4 +150,7 @@
 
 ## 埋点
 - [Android无埋点数据收集SDK关键技术解析](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651113253&idx=1&sn=76d8157479c6a7497acb9e2d616572a6)
+
+
+
 
