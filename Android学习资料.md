@@ -58,7 +58,7 @@
     + [UI设计师不可不知的安卓屏幕知识](http://www.zcool.com.cn/article/ZNjI3NDQ=.html)
     + [android 常见分辨率（mdpi、hdpi 、xhdpi、xxhdpi ）屏幕适配](http://blog.csdn.net/lixiaopeng23/article/details/28610941)
     + [Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题](https://github.com/hongyangAndroid/AndroidAutoLayout)
-    + []()
+    + [Android屏幕适配（基于实战考虑“Android图片应该用多大，放在什么密度下面，能否用一套图适配”的问题）](https://segmentfault.com/a/1190000009045864)
     + []()
     + []()
     + []()
