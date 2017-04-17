@@ -11,13 +11,14 @@
 + [android 编码规范](https://gold.xitu.io/post/583ff3a0a22b9d006c0e0eb9)
 + [Android代码的书写规范](https://gold.xitu.io/post/58945a482f301e0069009e00)
 + [初心网络安卓组代码规范说明](https://github.com/LoranWong/Android-Code-Style/blob/master/README.md)
-+ [分享一个 Android XML 的命名规范](https://zhuanlan.zhihu.com/p/26181517)
++ [Java里如何实现线程间通信？](http://wingjay.com/2017/04/09/Java%E9%87%8C%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%BA%BF%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1%EF%BC%9F/)
 
 ##  知识点
 1. Java
     + [JAVA之旅](http://blog.csdn.net/qq_26787115/article/details/51318455)
     + [Effective Java之类和接口](http://www.cnblogs.com/JohnTsai/p/5304438.html)
     + [理解Android Context](http://gityuan.com/2017/04/09/android_context/)
+    + [分享一个 Android XML 的命名规范](https://zhuanlan.zhihu.com/p/26181517)
     + []()
     + []()
     + []()
