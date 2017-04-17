@@ -51,6 +51,7 @@
 
 
 ## 适配
+
 1. 屏幕适配
     + [screensiz](http://screensiz.es/phone)
     + [Andriod分辨率适配 ”葵花宝典“](http://www.ui.cn/detail/27997.html)
@@ -131,6 +132,7 @@
 
 ## Android应用瘦身
 * [Android应用瘦身，从18MB到12.5MB](http://www.jianshu.com/p/31ba2d0e9a60)
+* [Android App包瘦身优化实践](http://tech.meituan.com/android-shrink-overall-solution.html)
 
 ## 迭代
 * [Android 实现APP的版本迭代](http://www.jianshu.com/p/254426df49f2)
