@@ -113,6 +113,7 @@
 
 ## Gradle
 - [Gradle for Android 第五篇( 多模块构建 )](http://mp.weixin.qq.com/s?__biz=MzA4NDM2MjAwNw==&mid=2650576628&idx=1&sn=9cf8acb162cfa85f52a68ce85c70617f&chksm=87e0608cb097e99a1e1d2903b63f5b1ce1694fe71329304d953635c2d1fe6952da857dd82486&mpshare=1&scene=23&srcid=0411FRec6GkNfivstpm4m0Ez#rd)
+- [一些关于加速Gradle构建的个人经验](http://droidyue.com/blog/2017/04/16/speedup-gradle-building/)
 
 ## 三方统计
 * [玩转友盟分享面板](https://gold.xitu.io/post/5894547661ff4b006bff44f2)
