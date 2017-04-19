@@ -106,6 +106,7 @@
 * [Android混淆签名(下)](https://sogrey.github.io/article/Android%E6%B7%B7%E6%B7%86%E7%AD%BE%E5%90%8D%EF%BC%88%E4%B8%8B%EF%BC%89/)
 * [Android混淆心得](http://www.2cto.com/kf/201607/530170.html)
 * [读懂 Android 中的代码混淆](http://mp.weixin.qq.com/s?__biz=MzA4NDM2MjAwNw==&mid=2650576525&idx=1&sn=354212c893116f36320c64d03aa98139&chksm=87e060f5b097e9e32271668ff2a262ec2dd3451f62fc11d2cf59ae1f504f4b8fdee14324bd7d&mpshare=1&scene=23&srcid=0227khd3eQlFzzAIkusqVGne%23rd)
+* [ProGuard 最全混淆规则说明](http://www.jianshu.com/p/b471db6a01af)
 
 
 ## 内存泄漏
