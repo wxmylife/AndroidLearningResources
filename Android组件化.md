@@ -24,6 +24,7 @@
 * [手把手教你写Router框架入门篇](http://www.jianshu.com/p/fe436a4ac530)
 * [简单易用的 Android 路由方案 NavRouter](https://github.com/zktufo/NavRouter)
 * [类似于retrofit的路由器](https://github.com/nekocode/Meepo)
+* [使用ARouter实现组件化](https://juejin.im/post/58f79130a0bb9f006abb066b)
 ***
 
 #架构
