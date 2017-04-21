@@ -5,5 +5,5 @@
 * [使用 UT 高效地玩转 RxJava 的操作符](http://www.jianshu.com/p/5b774424b393)
 * [RxJava 2.x 学习](https://xiaobailong24.me/2017/03/18/Android-RxJava2.x/)
 * [ 一篇RxJava友好的文章（三）](http://blog.csdn.net/forezp/article/details/53013762)
-
+* [带你高效学习MVP+RxJava+Retrofit](http://www.jianshu.com/p/c81c48144029)
 
