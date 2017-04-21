@@ -32,6 +32,7 @@
     + [安居客Android项目架构演进](https://gold.xitu.io/post/58b073c5b123db0052c03fb1)
     + [Android资源与属性备忘单](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0324/7720.html)   
     + [让你彻底搞懂Context到底是什么](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649547681&idx=1&sn=cf600ed5a92ce5fe100e8478ba0c55b4&scene=21#wechat_redirect)
+  
 
 ## 架构
 + [人人车Android客户端架构演进实录](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651113031&idx=1&sn=7e9989d1044b836d34f38dc527b8d6c2)
@@ -109,6 +110,9 @@
 * [ProGuard 最全混淆规则说明](http://www.jianshu.com/p/b471db6a01af)
 * [android的代码混淆与反编译](http://www.jianshu.com/p/60e3791a22f8)
 
+## 性能优化
+- [Android性能优化——代码优化](https://my.oschina.net/u/2011321/blog/883145)
+- [Android性能优化——图片优化](https://my.oschina.net/u/2011321/blog/884070)
 
 ## 内存泄漏
 * [LeakCanary直面项目中的内存泄露](http://blog.csdn.net/donkor_/article/details/54095110)
