@@ -151,6 +151,10 @@
 ## 启动页
 * [你所不知道的Android启动页(欢迎界面)](http://www.jianshu.com/p/33a798ac3298)
 
+
+## 升级
+- [Android 强升逻辑和实现](https://youzanmobile.github.io/2017/03/01/zan-app-updater/)
+
 ## 掘金翻译计划
 * [掘金翻译计划](https://github.com/xitu/gold-miner)
 
