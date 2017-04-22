@@ -122,6 +122,9 @@
 - [一些关于加速Gradle构建的个人经验](http://droidyue.com/blog/2017/04/16/speedup-gradle-building/)
 - [Gradle的卖家秀和买家秀](http://blog.csdn.net/sdkfjksf/article/details/70254430)
 
+## 多渠道打包
+- [Android 新一代多渠道打包神器](https://www.qcloud.com/community/article/146038?fromSource=gwzcw.93759.93759.93759)
+
 ## 三方统计
 * [玩转友盟分享面板](https://gold.xitu.io/post/5894547661ff4b006bff44f2)
 
