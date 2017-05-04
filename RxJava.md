@@ -6,4 +6,5 @@
 * [RxJava 2.x 学习](https://xiaobailong24.me/2017/03/18/Android-RxJava2.x/)
 * [ 一篇RxJava友好的文章（三）](http://blog.csdn.net/forezp/article/details/53013762)
 * [带你高效学习MVP+RxJava+Retrofit](http://www.jianshu.com/p/c81c48144029)
+* [你一定会用到的 RxJava 操作符](http://blog.csdn.net/u014165119/article/details/52582782)
 
