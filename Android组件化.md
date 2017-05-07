@@ -12,6 +12,8 @@
 * [Android Application 组件化](https://gold.xitu.io/post/58b38807ac502e0069dc2ec3)
 * [Android组件化之通信（多模块，多进程）](http://mp.weixin.qq.com/s?__biz=MzA3OTk4ODkwNA==&mid=2449245748&idx=1&sn=7413078e04770dff1bda56253fa24f31&chksm=8ba337f3bcd4bee5f40f494cd9c9228246097f10fc0a65a38b6e641878941f25981fca005169&scene=0#rd)
 * [Android组件化项目详细实施方案](http://blog.csdn.net/guiying712/article/details/55213884)
+* [Android 模块化探索与实践](https://zhuanlan.zhihu.com/p/26744821)
+* [安居客 Android 项目架构演进](https://zhuanlan.zhihu.com/p/25420181)
 
 ***
 # 路由
