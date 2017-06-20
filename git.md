@@ -7,4 +7,5 @@
 * [git-flow 备忘清单](https://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
 * [Git 工作流程](http://www.ruanyifeng.com/blog/2015/12/git-workflow.html)
 * [深入浅出 Git](https://blog.coding.net/blog/git-from-the-inside-out)
+* [Git组件化部署](https://juejin.im/post/59472ba261ff4b006cf6232a)
 
