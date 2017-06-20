@@ -29,6 +29,7 @@
 * [使用ARouter实现组件化](https://juejin.im/post/58f79130a0bb9f006abb066b)
 * [一款小而美的路由框架](https://github.com/Jomes/routerSDK)
 * [Andriod组件化路由跳转](https://juejin.im/post/591198941b69e60068621aa5)
+* [Android 组件化 —— 路由设计最佳实践](http://www.jianshu.com/p/8a3eeeaf01e8)
 ***
 
 # 架构
