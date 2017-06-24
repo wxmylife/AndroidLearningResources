@@ -41,6 +41,7 @@
 + [Android应用架构的一些思考-从零开始](http://blog.csdn.net/u011734444/article/details/53002867)
 + [一种Android客户端架构设计分享](http://mp.weixin.qq.com/s?__biz=MzA4NDM2MjAwNw==&mid=2650576568&idx=1&sn=221859b9bb3f57225532db020108498a&chksm=87e060c0b097e9d65c1a80f15ae62bac1234575728b1ff709a74c1a0082c9a4df3121d5dfba1&mpshare=1&scene=23&srcid=0321uL56brS3caUNGRzucx5S#rd)
 + [App架构设计经验谈:接口的设计](http://keeganlee.me/post/architecture/20160107)
++ [谷歌官方Android应用架构库——App 架构指南](https://mp.weixin.qq.com/s?__biz=MzA4NDM2MjAwNw==&mid=2650576796&idx=1&sn=2fc17c52bd30fba3a4acc6bdc2591df4&chksm=87e061e4b097e8f22d715831879d25036a50661acfbf1ab2df5510dbd77f4e5b9a70e03dc97d&mpshare=1&scene=23&srcid=06232xFBdhV79Au8fTeQvLfJ#rd)
     
 ## 动画
 + [Android属性动画Property Animation系列一之ValueAnimator](http://blog.csdn.net/feiduclear_up/article/details/45893619 )
