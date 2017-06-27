@@ -9,4 +9,5 @@
 * [深入浅出 Git](https://blog.coding.net/blog/git-from-the-inside-out)
 * [Git组件化部署](https://juejin.im/post/59472ba261ff4b006cf6232a)
 * [看完还不会用的GIT操作,你就掐死我](https://segmentfault.com/p/1210000008103366/read)
+* [SegmentFault 技术周刊 Vol.27 - Git 学习宝典：程序员走江湖必备](https://segmentfault.com/a/1190000009893041)
 
