@@ -109,6 +109,7 @@
 * [读懂 Android 中的代码混淆](http://mp.weixin.qq.com/s?__biz=MzA4NDM2MjAwNw==&mid=2650576525&idx=1&sn=354212c893116f36320c64d03aa98139&chksm=87e060f5b097e9e32271668ff2a262ec2dd3451f62fc11d2cf59ae1f504f4b8fdee14324bd7d&mpshare=1&scene=23&srcid=0227khd3eQlFzzAIkusqVGne%23rd)
 * [ProGuard 最全混淆规则说明](http://www.jianshu.com/p/b471db6a01af)
 * [android的代码混淆与反编译](http://www.jianshu.com/p/60e3791a22f8)
+* [Android进阶之ProGuard代码混淆](http://hanhailong.com/2015/12/28/Android%E8%BF%9B%E9%98%B6%E4%B9%8BProGuard%E4%BB%A3%E7%A0%81%E6%B7%B7%E6%B7%86/)
 
 ## 性能优化
 - [Android性能优化——代码优化](https://my.oschina.net/u/2011321/blog/883145)
