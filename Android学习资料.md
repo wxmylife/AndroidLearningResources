@@ -179,3 +179,9 @@
 - [靠谱的 Android 唯一设备号生成方案](https://linkaipeng.com/2017/03/29/%E9%9D%A0%E8%B0%B1%E7%9A%84%20Android%20%E5%94%AF%E4%B8%80%E8%AE%BE%E5%A4%87%E5%8F%B7%E7%94%9F%E6%88%90%E6%96%B9%E6%A1%88/)
 
 
+## 自定义view及动画
+- [自定义View的原理](http://www.jianshu.com/p/146e5cec4863)
+- [自定义View的应用](http://www.jianshu.com/p/e9d8420b1b9c)
+- [动画的使用](http://www.jianshu.com/p/2412d00a0ce4)
+
+
