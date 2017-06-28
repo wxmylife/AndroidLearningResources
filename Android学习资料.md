@@ -72,7 +72,7 @@
 + [鹅厂专家详解Android N适配要点 | 腾讯优测干货分享](https://zhuanlan.zhihu.com/p/21461478)
 + [Android6.0M权限管理实战,完美轻量级封装](http://blog.csdn.net/linglongxin24/article/details/53189359)
 + [Android7.0适配教程，心得](http://www.jianshu.com/p/56b9fb319310)
-+ []()
++ [目前最流行的运行时权限请求框架PermissionsDispatcher、RxPermissions和easypermissions的使用和对比](http://www.jianshu.com/p/07e1a1cff5ad)
 + []()
 + []()
 + []()
