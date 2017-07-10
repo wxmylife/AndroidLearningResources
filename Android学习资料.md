@@ -32,6 +32,7 @@
     + [安居客Android项目架构演进](https://gold.xitu.io/post/58b073c5b123db0052c03fb1)
     + [Android资源与属性备忘单](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0324/7720.html)   
     + [让你彻底搞懂Context到底是什么](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649547681&idx=1&sn=cf600ed5a92ce5fe100e8478ba0c55b4&scene=21#wechat_redirect)
+    + [Fragment全解析系列（一）：那些年踩过的坑](http://www.jianshu.com/p/d9143a92ad94)
   
 
 ## 架构
@@ -110,6 +111,7 @@
 * [ProGuard 最全混淆规则说明](http://www.jianshu.com/p/b471db6a01af)
 * [android的代码混淆与反编译](http://www.jianshu.com/p/60e3791a22f8)
 * [Android进阶之ProGuard代码混淆](http://hanhailong.com/2015/12/28/Android%E8%BF%9B%E9%98%B6%E4%B9%8BProGuard%E4%BB%A3%E7%A0%81%E6%B7%B7%E6%B7%86/)
+* [带你把Apk混淆成中文语言代码](http://www.wjdiankong.cn/android%E5%AE%89%E5%85%A8%E9%98%B2%E6%8A%A4%E4%B9%8B%E6%97%85-%E5%B8%A6%E4%BD%A0%E6%8A%8Aapk%E6%B7%B7%E6%B7%86%E6%88%90%E4%B8%AD%E6%96%87%E8%AF%AD%E8%A8%80%E4%BB%A3%E7%A0%81/)
 
 ## 性能优化
 - [Android性能优化——代码优化](https://my.oschina.net/u/2011321/blog/883145)

@@ -16,6 +16,7 @@
 * [安居客 Android 项目架构演进](https://zhuanlan.zhihu.com/p/25420181)
 * [悦跑圈Android单业务开发，提高编译效率15倍](http://www.jianshu.com/p/452367cbb7be)
 * [Android使用Provider做业务数据交互](http://www.jianshu.com/p/06474804c70e)
+* [总结Android模块化的一些知识点](http://www.androidchina.net/7044.html)
 
 ***
 # 路由
