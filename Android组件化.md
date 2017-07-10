@@ -17,6 +17,8 @@
 * [悦跑圈Android单业务开发，提高编译效率15倍](http://www.jianshu.com/p/452367cbb7be)
 * [Android使用Provider做业务数据交互](http://www.jianshu.com/p/06474804c70e)
 * [总结Android模块化的一些知识点](http://www.androidchina.net/7044.html)
+* [Android程序设计探索：MVP与模块化](http://www.jianshu.com/p/fb057953131e)
+* [微信Android模块化架构重构实践](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286672&idx=1&sn=4d9db00c496fcafd1d3e01d69af083f9&chksm=8334cc92b4434584e8bdb117274f41145fb49ba467ec0cd9ba5e3551a8abf92f1996bd6b147a&scene=0#rd)
 
 ***
 # 路由
