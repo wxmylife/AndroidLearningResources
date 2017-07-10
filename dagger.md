@@ -20,6 +20,7 @@
 + [Daager2-初认识一](https://gold.xitu.io/post/58758afd61ff4b005c59a0e0)
 + [Dagger2实现更为规范化的MVP架构](https://juejin.im/post/58dce83d570c3500578ad78b)
 + [动手动脑学Dagger2系列一](http://blog.csdn.net/xlh1191860939/article/details/70473853)
++ [Dagger2神器入门（一）](http://www.jianshu.com/p/dce5382fec5d)
 
 ## 项目
 

@@ -8,4 +8,5 @@
 * [带你高效学习MVP+RxJava+Retrofit](http://www.jianshu.com/p/c81c48144029)
 * [你一定会用到的 RxJava 操作符](http://blog.csdn.net/u014165119/article/details/52582782)
 * [RxJava系列1(简介) - 技术男的后花园 - 知乎专栏](https://zhuanlan.zhihu.com/p/20687178)
+* [这可能是最好的RxJava 2.x 入门教程（一）](http://www.cnblogs.com/liushilin/p/7058302.html)
 

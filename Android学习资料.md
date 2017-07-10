@@ -123,6 +123,8 @@
 - [一些关于加速Gradle构建的个人经验](http://droidyue.com/blog/2017/04/16/speedup-gradle-building/)
 - [Gradle的卖家秀和买家秀](http://blog.csdn.net/sdkfjksf/article/details/70254430)
 - [不同版本 Gradle ，怎么和平共处](https://juejin.im/post/5947fa5d8d6d81cc72f7cd0f)
+- [使用 Gradle 对应用进行个性化定制](https://juejin.im/post/595f74486fb9a06bbb32c022)
+- [Android利用gradle同时编译多包（测试环境地址、生产环境地址）](https://juejin.im/post/59302a0fa22b9d0058b785bc)
 
 ## 多渠道打包
 - [Android 新一代多渠道打包神器](https://www.qcloud.com/community/article/146038?fromSource=gwzcw.93759.93759.93759)
