@@ -14,6 +14,8 @@
 * [Android组件化项目详细实施方案](http://blog.csdn.net/guiying712/article/details/55213884)
 * [Android 模块化探索与实践](https://zhuanlan.zhihu.com/p/26744821)
 * [安居客 Android 项目架构演进](https://zhuanlan.zhihu.com/p/25420181)
+* [悦跑圈Android单业务开发，提高编译效率15倍](http://www.jianshu.com/p/452367cbb7be)
+* [Android使用Provider做业务数据交互](http://www.jianshu.com/p/06474804c70e)
 
 ***
 # 路由
