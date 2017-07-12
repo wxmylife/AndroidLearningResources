@@ -129,6 +129,7 @@
 - [使用 Gradle 对应用进行个性化定制](https://juejin.im/post/595f74486fb9a06bbb32c022)
 - [Android利用gradle同时编译多包（测试环境地址、生产环境地址）](https://juejin.im/post/59302a0fa22b9d0058b785bc)
 - [使用gradle集成360加固](http://blog.csdn.net/qq_17766199/article/details/74929844)
+- [使用 Gradle 实现一套代码开发多个应用](https://juejin.im/post/59648441f265da6c415f3078)
 
 ## 多渠道打包
 - [Android 新一代多渠道打包神器](https://www.qcloud.com/community/article/146038?fromSource=gwzcw.93759.93759.93759)
