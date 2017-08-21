@@ -12,6 +12,7 @@
 + [Android代码的书写规范](https://gold.xitu.io/post/58945a482f301e0069009e00)
 + [初心网络安卓组代码规范说明](https://github.com/LoranWong/Android-Code-Style/blob/master/README.md)
 + [Java里如何实现线程间通信？](http://wingjay.com/2017/04/09/Java%E9%87%8C%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%BA%BF%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1%EF%BC%9F/)
++ [值得你学习的 Android 开发规范](https://juejin.im/entry/59924bdc6fb9a03c5f0c8fc3)
 
 ##  知识点
 1. Java
