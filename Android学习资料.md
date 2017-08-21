@@ -113,6 +113,7 @@
 * [android的代码混淆与反编译](http://www.jianshu.com/p/60e3791a22f8)
 * [Android进阶之ProGuard代码混淆](http://hanhailong.com/2015/12/28/Android%E8%BF%9B%E9%98%B6%E4%B9%8BProGuard%E4%BB%A3%E7%A0%81%E6%B7%B7%E6%B7%86/)
 * [带你把Apk混淆成中文语言代码](http://www.wjdiankong.cn/android%E5%AE%89%E5%85%A8%E9%98%B2%E6%8A%A4%E4%B9%8B%E6%97%85-%E5%B8%A6%E4%BD%A0%E6%8A%8Aapk%E6%B7%B7%E6%B7%86%E6%88%90%E4%B8%AD%E6%96%87%E8%AF%AD%E8%A8%80%E4%BB%A3%E7%A0%81/)
+* [Android Studio 代码混淆](https://juejin.im/post/5947e7e8128fe1006a52d922)
 
 ## 性能优化
 - [Android性能优化——代码优化](https://my.oschina.net/u/2011321/blog/883145)
